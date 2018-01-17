@@ -6,10 +6,8 @@ AddComponent to show TextInput, "add" button,
 */
 import React, { Component } from 'react';
 import {
-    AppRegistry, FlatList,
-    StyleSheet, Text, View, Image, Alert, Platform,
-    TouchableHighlight,
-    RefreshControl, TextInput
+    StyleSheet, Text, View, Image,
+    TouchableHighlight, TextInput
 } from 'react-native';
 
 export default class AddComponent extends Component {
